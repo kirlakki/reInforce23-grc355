@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: 'Product for deploying simple EKS cluster' 
+Description: 'Deploying simple EKS cluster' 
 Parameters:
   RemoteAccessCIDR:
     Description: 'Enter your IP address followed by /32. Example: 1.2.3.4/32'
